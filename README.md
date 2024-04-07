@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/VictorMaterco">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMaterco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMaterco&layout=compact&langs_count=6&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMaterco&hide_rank=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMaterco&layout=normal&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,8 +17,8 @@
 ### Pra outra informações entre em contato nas redes abaixo!
  
 <div> 
-  <a href="https://victormaterco.github.io/Portfolio-VictorMaterco/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-8A2BE2?style=for-the-badge&logo=moleculer&logoColor=white"></a>
-  <a href="https://instagram.com/VictorMaterco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-  <a href = "mailto:vmaterco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/VictorMaterco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a href="https://victormaterco.github.io/Portfolio-VictorMaterco/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-8A2BE2?style=for-the-badge&logo=moleculer&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/VictorMaterco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vmaterco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/VictorMaterco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
